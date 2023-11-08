@@ -1,4 +1,4 @@
-# Name : Jessiel Chasiguano
+# Name : Jessiel Chasiguano.
 # Course: Computer Architecture  SI-001.
 print ("Welcome to the logic gates simulator.")
 print ("Logic Gate Or")
