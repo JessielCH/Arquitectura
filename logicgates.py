@@ -1,3 +1,5 @@
+# Name : Jessiel Chasiguano
+# Course: Computer Architecture  SI-001.
 print ("Welcome to the logic gates simulator.")
 print ("Logic Gate Or")
 x= input("Enter the value of input as 1 or 0 for x: ")
